@@ -18,7 +18,6 @@ This project is developed as part of the final year engineering course in Comput
 ## 📁 Project Structure
 - `Arduino/` - Arduino and ESP8266 code files
 - `Docs/` - Final report and presentation
-- `WebDashboard/` - UI or dashboard files (optional)
 - `images/` - Add your screenshots
 
 ## 👨‍💻 Authors
@@ -28,4 +27,4 @@ This project is developed as part of the final year engineering course in Comput
 - Y. Mohan Sai Reddy
 
 ## 📜 License
-MIT
+MITS
